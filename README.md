@@ -1,10 +1,10 @@
-# **Streams Builder**
+# **Praktikum Stream Builder**
 
 ## Nama : Sukma Bagus Wahasdwika
 
 ## NIM  : 2241720223
 
-## **Praktikum - Dart StreamsBuilder**
+## **Praktikum 6 - StreamBuilder**
 
 ### **Soal 12:**
 * Jelaskan maksud kode pada langkah 3 dan 7 ! 
